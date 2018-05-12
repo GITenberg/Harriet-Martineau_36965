@@ -1,0 +1,29 @@
+_repo: Harriet-Martineau_36965
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Florence Fenwick
+    birthdate: 1854
+    deathdate: 1936
+    gutenberg_agent_id: '38562'
+    url: http://www.gutenberg.org/2009/agents/38562
+description: ''
+gutenberg_issued: '2011-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Martineau, Harriet, 1802-1876'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Women social reformers -- Great Britain -- Biography'
+- !lcsh 'Women and literature -- England -- History -- 19th century'
+- !lcc 'PR'
+title: Harriet Martineau
+url: http://www.gutenberg.org/ebooks/36965
